@@ -54,3 +54,9 @@ name = 'joshdick/onedark.vim'
 
 [[layers]]
   name = "lang#vue"
+
+[[layers]]
+  name = "git"
+
+[[layers]]
+  name = "fzf"
