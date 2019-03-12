@@ -24,6 +24,7 @@
     enable_tabline_filetype_icon = true
     enable_statusline_mode = false
     filemanager = "nerdtree"
+    guifont = "Hack:h13"
 
 # Enable autocomplete layer
 [[layers]]
@@ -51,6 +52,9 @@ name = 'airblade/vim-gitgutter'
 
 [[custom_plugins]]
 name = 'joshdick/onedark.vim'
+
+[[custom_plugins]]
+name = 'terryma/vim-multiple-cursors'
 
 [[layers]]
   name = "lang#vue"
